@@ -1,4 +1,8 @@
 ## Open Serv
+Install dependencies:
+```
+npm install
+```
 For execute project use command:
 ```
 npm run dev
